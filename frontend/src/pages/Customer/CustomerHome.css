@@ -1,0 +1,52 @@
+.h6 {
+    text-align: right;
+    padding-right: 20ex;
+}
+
+.h3 {
+    text-align: center;
+ 
+}
+
+.cart-items{
+    text-align: right;
+    padding-right: 20ex;
+}
+
+.logout1{
+    position: static;
+    background-color: red;
+}
+
+.bgimg{
+    background-image: url('../bgimg.jpg');
+    height: 100%;
+    width: 100%;
+}
+
+.addressimg{
+   background-image: url('../../images/addressbgimg.jpg');
+   height: 100%;
+   width: 100%;
+  
+}
+
+.orderbg{
+    background-image: url('../../images/orderbg.jpg');
+    height: 100%;
+    width: 100%;
+   
+}
+
+.paymentbg{
+    background-image: url('../../images/paymentbg2.jpg');
+    height: 730px;
+    width: 100%;
+   
+}
+
+.showorderbg{
+    background-image: url('../../images/showorderbg.jpg');
+    height: 730px;
+    width: 100%;
+}

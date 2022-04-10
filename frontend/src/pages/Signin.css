@@ -1,0 +1,32 @@
+
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    
+  }
+  
+.image{
+  height: 50%;
+  width: 20%;
+  margin-left: 40%;
+}  
+
+ 
+
+.style{
+  background-image: url('../images/Immages.jpg');
+  height: 800px;
+  width: 100%;
+  text-align: left;
+}
+
+.style_email{
+  margin-top: 10%;
+}
+
+.style_font{
+  font-size: large;
+  
+
+}

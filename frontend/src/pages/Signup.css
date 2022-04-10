@@ -1,0 +1,17 @@
+.image{
+    height: 50%;
+    width: 20%;
+    margin-left: 60%;
+  }  
+
+
+  .style{
+    background-image: url('../images/Immages.jpg');
+    height: 800px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .img{
+    opacity: 0.6;
+  }
